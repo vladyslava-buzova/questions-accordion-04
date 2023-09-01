@@ -1,7 +1,7 @@
 const questions = [
   {
     id: 1,
-    title: 'How do I search for a suitable hotel or apartment for my stay?',
+    title: 'How do I search for a suitable hotel for my stay?',
     info: 'It is very easy. At first type (enter) name of your destination/hotel including date of your stay into the blue "Search box". Than just click on red button "Search". Immediately, all the available rooms will show up including prices for whole stay (number of nights you filled previously). ',
   },
   {
