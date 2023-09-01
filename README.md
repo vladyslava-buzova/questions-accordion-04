@@ -7,7 +7,11 @@
 [Accordion](https://www.figma.com/file/JAphSEbK33OQ5vyGEs5Bea/Accordion?type=design&node-id=0-1&mode=design&t=DWKz5CTapvIql1q2-0)
 
 ## Implemented features:
-
+1. Imported the questions array from data.js into the project.
+2. Set up the questions array as a state variable using the useState hook.
+3. Iterate over the questions array and render a SingleQuestion component for each item in the array.
+4. In the SingleQuestion component, displayed the question text in the header and a button to toggle the question text.
+5. Defined a function that toggles the state of a "showAnswer" flag, which determines whether the answer text is displayed or not.
 
 ## How to launch a project:
 1. Clone the repo.
