@@ -262,7 +262,6 @@ ul {
 /* optional */
 
 body {
-  /* background: var(--primary-100); */
   background: var(--dark-color);
 }
 main {
@@ -317,7 +316,6 @@ main {
   border-color: transparent;
   width: 2rem;
   height: 2rem;
-  /* background: var(--primary-900); */
   background: var( --green-color);
   display: flex;
   align-items: center;
