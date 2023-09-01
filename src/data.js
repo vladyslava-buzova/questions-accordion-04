@@ -6,12 +6,12 @@ const questions = [
   },
   {
     id: 2,
-    title: 'How do I get to know which facilities / services each hotel offers?',
+    title: 'How do I get to know which facilities each hotel offers?',
     info: 'Please, have a look at the section Hotel basic information. In this section you will also find the check in/out information. Hotel facilities / services are stated in Hotel basic information, just below the the offer of available rooms. In this section you will also find the check in/out information. Please note, that some of the facilities might be off-site and also for extra charge.',
   },
   {
     id: 3,
-    title: 'Is it possible to order an extra bed/baby cot and how much will it be?',
+    title: 'Is it possible to order an extra bed and how much will it be?',
     info: 'The extra bed/baby cots hotel policy is written in "Payment and cancellation conditions" in section "Children and Extra Bed Policy". Each accommodation has its own extra bed policy, therefore its necessary to always check it in order to find out if the extra bed will be possible or not. ',
   },
   {
