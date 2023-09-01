@@ -13,6 +13,12 @@ html {
 } /*16px*/
 
 :root {
+  /* set of colors */
+  --green-color: #e9fe65;
+  --dark-color: #111;
+  --light-color: #f8f7fc;
+  --blue-color: #322fee;
+
   /* colors */
   --primary-100: #cffafe;
   --primary-200: #a5f3fc;
@@ -70,7 +76,7 @@ body {
     Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: 400;
   line-height: 1;
-  color: var(--textColor);
+  color: var(--dark-color);
 }
 p {
   margin: 0;
@@ -256,7 +262,8 @@ ul {
 /* optional */
 
 body {
-  background: var(--primary-100);
+  /* background: var(--primary-100); */
+  background: var(--dark-color);
 }
 main {
   min-height: 100vh;
@@ -278,7 +285,7 @@ main {
 .container h1 {
   text-align: center;
   margin-bottom: 3rem;
-  color: var(--grey-700);
+  color: var(--dark-color);
 }
 .question {
   padding: 1rem 1.5rem;
@@ -290,7 +297,7 @@ main {
 }
 
 .question p {
-  color: var(--grey-500);
+  color: var(--dark-color);
   line-height: 2;
   margin-top: 1rem;
 }
@@ -303,19 +310,20 @@ main {
 .question h5 {
   font-weight: 500;
   line-height: 1.5;
-  color: var(--grey-700);
+  color: var(--dark-color);
 }
 .question-btn {
   background: transparent;
   border-color: transparent;
   width: 2rem;
   height: 2rem;
-  background: var(--primary-900);
+  /* background: var(--primary-900); */
+  background: var( --green-color);
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  color: var(--white);
+  color: var(--dark-color);
   cursor: pointer;
   /* optional - last item */
   align-self: flex-start;

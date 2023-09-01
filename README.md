@@ -1,11 +1,13 @@
 # React + Vite
 
 ## React Project "Accordion"
-[ProjectLink](https://vladyslava-buzova.github.io/questions-accordion-04
-/)
+[ProjectLink](https://vladyslava-buzova.github.io/questions-accordion-04/)
 
 ## Figma URL
 [Accordion](https://www.figma.com/file/JAphSEbK33OQ5vyGEs5Bea/Accordion?type=design&node-id=0-1&mode=design&t=DWKz5CTapvIql1q2-0)
+
+## Implemented features:
+
 
 ## How to launch a project:
 1. Clone the repo.
